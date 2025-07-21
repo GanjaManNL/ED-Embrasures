@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\GITHUB\\Mods\\Continued\\1.6\\ED-Embrasures\\Source\\ED-Embrasures.csproj": {}
+  },
+  "projects": {
+    "H:\\GITHUB\\Mods\\Continued\\1.6\\ED-Embrasures\\Source\\ED-Embrasures.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\GITHUB\\Mods\\Continued\\1.6\\ED-Embrasures\\Source\\ED-Embrasures.csproj",
+        "projectName": "ED-Embrasures",
+        "projectPath": "H:\\GITHUB\\Mods\\Continued\\1.6\\ED-Embrasures\\Source\\ED-Embrasures.csproj",
+        "packagesPath": "C:\\Users\\Jesse\\.nuget\\packages\\",
+        "outputPath": "H:\\GITHUB\\Mods\\Continued\\1.6\\ED-Embrasures\\Source\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jesse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net481"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net481": {
+            "targetAlias": "net481",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net481": {
+          "targetAlias": "net481",
+          "dependencies": {
+            "Krafs.Rimworld.Ref": {
+              "target": "Package",
+              "version": "[1.6.*, )"
+            },
+            "Lib.Harmony": {
+              "target": "Package",
+              "version": "[2.3.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

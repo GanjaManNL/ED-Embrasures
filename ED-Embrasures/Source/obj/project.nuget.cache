@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z8Ka0W+sxkM=",
+  "success": true,
+  "projectFilePath": "H:\\GITHUB\\Mods\\Continued\\1.6\\ED-Embrasures\\Source\\ED-Embrasures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jesse\\.nuget\\packages\\krafs.rimworld.ref\\1.6.4523\\krafs.rimworld.ref.1.6.4523.nupkg.sha512",
+    "C:\\Users\\Jesse\\.nuget\\packages\\lib.harmony\\2.3.3\\lib.harmony.2.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
